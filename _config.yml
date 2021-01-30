@@ -10,8 +10,8 @@ title: QualitySofts
 email: sarker.shantonu@gmail.com
 description: We Ensure Quality of Software
 baseurl: "/startbootstrap-freelancer-jekyll" # the subpath of your site, e.g. /blog
-url: "https://qualitysofts.github.io/" # the base hostname & protocol for your site
-url-pretty: "qualitysofts.github.io"
+url: "https://shantonusarker.github.io/blog/" # the base hostname & protocol for your site
+url-pretty: "shantonusarker.github.io/blog/"
 # Social media profiles - feel free to add more here
 twitter_username:
 github_username:  qualitysofts
