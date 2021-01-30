@@ -14,7 +14,8 @@ url: "https://shantonusarker.github.io/blog/" # the base hostname & protocol for
 url-pretty: "shantonusarker.github.io/blog/"
 # Social media profiles - feel free to add more here
 twitter_username:
-github_username:  qualitysofts
+github_username:  shantonusarker
+github_repo: "blog"
 facebook_username:
 #instagram_username: beyonce
 #stackoverflow_url: https://
